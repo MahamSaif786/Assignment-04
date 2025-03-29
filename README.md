@@ -61,7 +61,8 @@ This section includes **interactive Python projects** to improve logical thinkin
 ## 🎯 How to Use  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Project-4-Assignments.git
+   git clone https://github.com/MahamSaif786/Assignment-04.git
+
    ```
 2️⃣ Navigate to the project folder:  
    ```bash
